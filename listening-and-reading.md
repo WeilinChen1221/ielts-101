@@ -12,6 +12,7 @@
 	- "Z" pronounced as "zed"
 - minimal pair
 	- aren't / are
+- 听力题干也很重要
 
 ## Reading
 - 如果答案是 FALSE，原文必须出现相反的断言
