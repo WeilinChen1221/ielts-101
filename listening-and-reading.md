@@ -1,6 +1,7 @@
 - 时间格式：4.30 pm
 - "%" is allowed
 - "10 October" 的写法最保险
+- **Date** of birth 只有 **Date**
 - 法语词要注意变音符号
 	- 例："café"
 
